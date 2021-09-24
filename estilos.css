@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+    margin:0;
+    pading:0;
+}
+.name{
+    width: 8%;
+    height: 598px;
+    background: #F7E2DA;
+    margin-left: 11%;
+}
+.name .description{
+    width: 30%;
+    height: 125px;
+    background: #F7E2DA;
+    margin: 5% auto;
+    padding: 22px;
+    position: absolute;
+    left: 49%;
+    top: 35%;
+    color: #2F303A;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.name .content{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 46%;
+    margin: 3%;
+}
+.name .content .p1{
+    color: #2F303A;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bolder;
+    font-size: 52px;
+    margin-bottom: 0;
+    margin-right: 0px;
+    position:absolute;
+    top: 20%;
+}
+.name .content .p2{
+    color: #2F303A;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    position: absolute;
+    top: 59%;
+}
+.name .img{
+    position: absolute;
+    top: 9%;
+    left: 17%;
+}
+.name .img img{
+    width: 336px;
+    height: 336px;
+}
+.name .img2{
+    position: absolute;
+    top: 105.5%;
+    left: -13.1%;
+}
+.name .img2 img{
+    width: 30px;
+    height: 18px;
+}
+.name .img3{
+    position: absolute;
+    top: 200%;
+    right: -4%;
+}
+.name .img3 img{
+    width: 27px;
+    height: 26px;
+}
+.name .img4{
+    position: absolute;
+    top: 78%;
+    left: 13.9%;
+}
+.name .img4 img{
+    width: 25px;
+    height: 25px;
+}
+.name .img5{
+    position: absolute;
+    top: 85%;
+    left: 14.2%;
+}
+.name .img5 img{
+    width: 19.75px;
+    height: 24.7px;
+}
+.name .img6{
+    position:absolute;
+    top: 98%;
+    left: 11%;
+}
+.name .img6 img{
+    width: 327px;
+    height: 613px;
+}
+.name .imgeducation{
+    position:absolute;
+    top:98%;
+    left:40%;
+}
+
+.name .imgeducation img{
+    width: 516px;
+    height: 553px;
+}
+.name .codigo{
+    position:absolute;
+    top:190%;
+    left:66%;
+}
+.name .codigo img{
+    width: 180px;
+    height: 180px;
+}
+.info{
+    margin: 22%;
+    margin-top: -17%;
+    pading: 30px;
+}
+.info .email{
+    font-family: 'Urbanist', sans-serif;
+    font-size: s;
+    font-weight: bolder;
+    position: absolute;
+    top: 62%;
+    color: #2F303A;
+}
+.info .number{
+      font-family: 'Urbanist', sans-serif;
+    font-size: s;
+    font-weight: bolder;
+    position: absolute;
+    top: 69%;
+    color: #2F303A;
+}
+.info .insta{
+      font-family: 'Urbanist', sans-serif;
+    font-size: s;
+    font-weight: bolder;
+    position: absolute;
+    top: 76%;
+    color: #2F303A;
+}
+.info .address{
+    font-family: 'Urbanist', sans-serif;
+    font-size: s;
+    font-weight: bolder;
+    position: absolute;
+    top: 83%;
+    color: #2F303A;
+}
